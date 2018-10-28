@@ -1,7 +1,7 @@
 
 /** @jsx TinyReact.createElement */
 /*** Step 1,2,3,4 - createElement */
-//does not return anything from TinyReact
+
 const root = document.getElementById("myroot");
  
 
@@ -21,5 +21,7 @@ var Step1 = (
 );
 
 console.log(Step1);
+
+
  
  
